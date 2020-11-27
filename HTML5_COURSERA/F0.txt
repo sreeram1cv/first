@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>
+farrago
+</title>
+<link rel = "icon" type = "image" href = "farrago_icon.jpg" />
+</head>
+<body bgcolor = "cyan">
+<h2>Team <B>FARRAGO</B> is the official efficycle team of CET.</h2>
+<BR>
+<BR>
+<BR>
+<table>
+<tr>
+<td>One</td><td>Two</td><td>Three</td>
+<td>Four</td><td>Five</td><td>Six</td>
+<td>Seven</td><td>Eight</td><td>Nine</td>
+</tr>
+<img src="cycle_pic.jpg" align = "center" width="500px"  alt="Efficycle image." />
+</body>
+</html>
